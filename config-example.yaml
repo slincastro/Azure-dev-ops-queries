@@ -1,0 +1,8 @@
+# Azure DevOps configuration
+azure_devops:
+  personal_access_token: ""
+  organization_url: https://vsrm.dev.azure.com/<your organization>
+  project_name: "project_name"
+  pipeline_name: your_pipeline_name
+  pipeline_id: your_pipeline_id
+  pipeline_to_compare_id: your_pipeline_to_compare_id
