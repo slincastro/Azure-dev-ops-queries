@@ -1,4 +1,4 @@
-#Release Queries for Azure Dev Ops
+# Release Queries for Azure Dev Ops
 
 ## Dependencies 
 
@@ -27,7 +27,7 @@ Open your terminal or command prompt.
 Type `pip3 --version` and press Enter.
 If pip3 is installed, you should see the version number of pip3 and its location on your system.
 
-##Install Scripts Requirements: 
+## Install Scripts Requirements: 
 
 1. `pip3 install -r requirements.txt`
 2. Configure your config.yaml
